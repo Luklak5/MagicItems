@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "magicitems",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "magicitems:azurite_ingot"
+    }
+  },
+  "result": {
+    "item": "magicitems:azurite_block"
+  }
+}

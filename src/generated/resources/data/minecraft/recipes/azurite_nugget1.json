@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "magicitems",
+  "ingredients": [
+    {
+      "item": "magicitems:azurite_ingot"
+    }
+  ],
+  "result": {
+    "item": "magicitems:azurite_nugget",
+    "count": 9
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "block.magicitems.azurite_block": "Azurite Block",
+  "item.magicitems.azurite_boots": "Azurite Boots",
+  "item.magicitems.azurite_chestplate": "Azurite Chestplate",
+  "item.magicitems.azurite_helmet": "Azurite Helmet",
+  "item.magicitems.azurite_ingot": "Azurite Ingot",
+  "item.magicitems.azurite_leggings": "Azurite Leggings",
+  "item.magicitems.azurite_nugget": "Azurite Nugget",
+  "itemGroup.magicitems": "Magic Items"
+}

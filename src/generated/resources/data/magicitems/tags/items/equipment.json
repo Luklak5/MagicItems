@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "magicitems:azurite_boots",
+    "magicitems:azurite_leggings",
+    "magicitems:azurite_chestplate",
+    "magicitems:azurite_helmet"
+  ]
+}

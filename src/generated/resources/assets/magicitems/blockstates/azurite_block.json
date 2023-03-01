@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "magicitems:block/azurite_block"
+    }
+  }
+}
